@@ -6,7 +6,7 @@
 
 #feign
 
-#java 18
+#java 17
 
 #spring boot
 
@@ -15,3 +15,6 @@
 #mapstruct
 
 #lombok
+
+#PostGIS
+
